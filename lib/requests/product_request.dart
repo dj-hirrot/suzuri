@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:flutter_hands_on/models/product.dart';
-import 'package:flutter_hands_on/requests/suzuri_api_request.dart';
+import 'package:suzuri/models/product.dart';
+import 'package:suzuri/requests/suzuri_api_request.dart';
 import 'package:http/http.dart' as http;
 
 class ProductRequest extends SuzuriAPIRequest {

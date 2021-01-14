@@ -1,5 +1,5 @@
-import 'package:flutter_hands_on/models/item.dart';
-import 'package:flutter_hands_on/models/material.dart';
+import 'package:suzuri/models/item.dart';
+import 'package:suzuri/models/material.dart';
 
 class Product {
   final int id;
